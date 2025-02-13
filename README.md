@@ -23,17 +23,17 @@ brindando proyectos con alto impacto social, mejorando la calidad de vida.
 _____________________________________________________________________________________________________________
 ## 🎯 __Objetivos Profesionales__
 
-▪ Aprender cada día nuevas tecnologías, enriqueciendo mi profile developer.
-▪️ Construir aplicaciones robustas y escalables.
-▪️ Colaborar en proyectos innovadores.
+▪ Aprender cada día nuevas tecnologías, enriqueciendo mi profile developer.  
+▪️ Construir aplicaciones robustas y escalables.  
+▪️ Colaborar en proyectos innovadores.  
 _____________________________________________________________________________________________________________
-## **📌 Proyectos Destacados **
+## 📌 __Proyectos Destacados__
 
-### 🏘️ __STEL__   
+### 🏘️ __STEL__     
 Software diseñado con el fin de optimizar los procesos de un conjunto residencial. 
 ![image](https://github.com/user-attachments/assets/69a53bc7-0c44-43d5-83c6-75cb3de44413)
 
-### 🏗️ __Ruralic__ 
+### 🏗️ __Ruralic__   
 Software creado para mejorar la calidad de la infraestructura de las viviendas según la
 normatividad de sismo-resistencia NSR-10, utilizando la librería de Turtle.
 
