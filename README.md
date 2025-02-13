@@ -4,7 +4,7 @@ ________________________________________________________________________________
 🏔️ Una Ingeniera de Software en construcción, apasionada por la innovación y creatividad.
 ______________________________________________________________________________________________________________ 
 
-## 🚀 ** Habilidades Técnicas **
+## 🚀 __Habilidades Técnicas__
 ______________________________________________________________________________________________________________
 ◽ **Lenguajes de Programación:** 🐍 Python, ☕ Java, 🐘 PHP  
 
@@ -16,24 +16,24 @@ ________________________________________________________________________________
 
 ◽ **Metodologías:** Agile, Scrum, Jira, Kanban  
 _____________________________________________________________________________________________________________
-## **📈 Sobre Mi Trabajo **
+## 📈 __Sobre Mi Trabajo__
 
 Mi enfoque en el desarrollo de software tiene como prioridad la accesibilidad, eficiencia y escalabilidad, 
 brindando proyectos con alto impacto social, mejorando la calidad de vida.
+_____________________________________________________________________________________________________________
+## 🎯 __Objetivos Profesionales__
 
-## **🎯 Objetivos Profesionales **
-____________________________________________________________________________________________________________
 ▪ Aprender cada día nuevas tecnologías, enriqueciendo mi profile developer.
 ▪️ Construir aplicaciones robustas y escalables.
 ▪️ Colaborar en proyectos innovadores.
-
+_____________________________________________________________________________________________________________
 ## **📌 Proyectos Destacados **
-___________________________________________________________________________________________________________
-**🏘️ STEL** 
+
+### 🏘️ __STEL__   
 Software diseñado con el fin de optimizar los procesos de un conjunto residencial. 
 ![image](https://github.com/user-attachments/assets/69a53bc7-0c44-43d5-83c6-75cb3de44413)
 
-**🏗️ Ruralic** 
+### 🏗️ __Ruralic__ 
 Software creado para mejorar la calidad de la infraestructura de las viviendas según la
 normatividad de sismo-resistencia NSR-10, utilizando la librería de Turtle.
 
